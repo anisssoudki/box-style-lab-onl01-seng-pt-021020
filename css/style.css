@@ -52,9 +52,15 @@ h4 {
 }
 
 .med {
+    border: solid;
+  box-shadow: 5px 10px;
+  background: linear-gradient(#e66465, #9198e5);
   width: 203.5%;
 }
 
 .large {
+    border: solid;
+  box-shadow: 5px 10px;
+  background: linear-gradient(#e66465, #9198e5);
   width: 303%;
 }
